@@ -17,6 +17,8 @@ git push
 
 That's it. After a minute or so the changes will be live at:
 
+> Note: This file was last touched by Claude on 2026-04-07.
+
 - **Index:** `https://suneman.github.io/socialdata2026/`
 - **Lectures:** `https://suneman.github.io/socialdata2026/lectures/Week2.html` (etc.)
 
